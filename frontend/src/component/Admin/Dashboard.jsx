@@ -599,7 +599,7 @@ function Dashboard() {
                   </div>
                   <div className={classes.textContainer}>
                     <Typography variant="body2" className={classes.number}>
-                      PKR{totalAmount.toFixed(2)}
+                      ₹{totalAmount.toFixed(2)}
                     </Typography>
                   </div>
                 </div>
