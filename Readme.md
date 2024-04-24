@@ -1,34 +1,7 @@
-# Cricket Weapon E-Commerce Shopping App
+# E-Commerce Shopping App
 ---
 ### ⚙️ &nbsp; Time Taken to Complete this Project :
-<p align="center">
-<a href="https://wakatime.com/badge/user/f7838f29-ea5b-42c9-a473-628c7d8bc934/project/bf69fe19-66f3-47fa-99e9-f9e2926856e5"><img src="https://wakatime.com/badge/user/f7838f29-ea5b-42c9-a473-628c7d8bc934/project/bf69fe19-66f3-47fa-99e9-f9e2926856e5.svg" alt="wakatime"></a>
-</p>
 
-## Introduction
----
-Welcome to Cricket Weapon, an e-commerce shopping app built using the MERN (MongoDB, Express, React, Node.js) stack and Material-UI (MUI) for the user interface. This project provides both normal user and admin modes, offering a wide range of features to enhance the shopping experience.
-
-## Demo
-
-### Normal User Area
-
-https://github.com/MehraDevesh2022/CricketWeapon-Store/assets/96515074/d8eb6147-aed7-42c5-8d1f-0afcf6d05689
-
-### Admin Area
-https://github.com/MehraDevesh2022/CricketWeapon-Store/assets/96515074/bfc07258-0a0a-4840-b277-25dceafb4795
-
-## Dummy User Accounts
-
-| Email (Normal User) | Password | Email (Admin)     | Password  |
-| ------------------- | -------- | ----------------- | --------- |
-| user2@gmail.com     | user1234 | admin@gmail.com   | admin@123 |
-| user3@gmail.comm    | user1234 | admin01@gmail.com | user1234  |
-
-## Tech Stack
-
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-green) ![Express](https://img.shields.io/badge/-Express-blue) ![React](https://img.shields.io/badge/-React-blue) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Material-UI](https://img.shields.io/badge/-Material--UI-blue) ![Stripe](https://img.shields.io/badge/-Stripe-blue) ![Mongoose](https://img.shields.io/badge/-Mongoose-green) ![Redux](https://img.shields.io/badge/-Redux-purple) ![Redux-thunk](https://img.shields.io/badge/-Redux--thunk-purple) ![CSS3](https://img.shields.io/badge/-CSS3-blue)
 
 ## Project Configuration Guide
 
@@ -68,8 +41,8 @@ https://github.com/MehraDevesh2022/CricketWeapon-Store/assets/96515074/bfc07258-
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/MehraDevesh2022/CricketWeapon-Store.git
-    cd CricketWeapon-Store
+    git clone https://github.com/AhsanAli5901/VirtueShop-v2.0
+    cd VirtueShop-v2.0
     ```
 2.  Install dependencies:
     ```bash
