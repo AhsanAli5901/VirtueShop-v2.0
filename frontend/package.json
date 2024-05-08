@@ -42,7 +42,7 @@
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
-    "test": "jest --coverage",
+    "test": "test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -66,13 +66,6 @@
   "proxy": "http://localhost:5000",
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-    "@babel/preset-env": "^7.24.4",
-    "@babel/preset-react": "^7.24.1",
-    "@testing-library/react": "^15.0.4",
-    "babel-jest": "^29.7.0",
-    "eslint-config-react-app": "^7.0.1",
-    "jest": "^29.7.0",
-    "jest-environment-jsdom": "^29.7.0",
-    "react-test-renderer": "^18.2.0"
+    "eslint-config-react-app": "^7.0.1"
   }
 }
